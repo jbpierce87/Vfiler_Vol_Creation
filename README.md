@@ -1,0 +1,1 @@
+This simple powershell script leverages the Data ONTAP powershell toolkit to gather a speicfic set of volumes that are contained in a existing vfiler on a rouce NetApp system and creates these volumes/options on a specific destination system. 
